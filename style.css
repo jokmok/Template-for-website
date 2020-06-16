@@ -1,0 +1,42 @@
+body {
+  background-color:rgb(200, 100, 0);
+}
+
+#header_1 {
+  font-size:32;
+  font-family:arial
+}
+
+#p1 {
+  border:5px green;
+  color:green;
+  border:3px
+  solid lime;
+}
+
+#pre1 {
+  background-color:blue;
+  text-align:center;
+}
+
+#pre2 {
+  background-color:red;
+  text-align:left;
+  border:3px solid yellow;
+}
+
+#pre3 {
+  background-color:green;
+  text-align:right;
+  border:3px solid red;
+}
+
+.button1 {
+  color: blue;
+  background-color: green;
+}
+
+.button1:hover {
+    color: green;
+    background-color: blue
+}
